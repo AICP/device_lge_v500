@@ -1,6 +1,7 @@
 #
 # system.prop for v500
 #
+persist.sys.cabc_off=true
 # hardware info
 ro.device.chipset=Qualcomm APQ8064 Pro Snapdragon 600
 ro.device.cpu=Quad-core 1.7 GHz Krait 300
