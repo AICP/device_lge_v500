@@ -70,6 +70,9 @@ TARGET_USES_C2D_COMPOSITION := true
 
 OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # Recovery
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
 RECOVERY_FSTAB_VERSION = 2
