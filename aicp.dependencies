@@ -5,7 +5,7 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "AOKP/vendor_lge",
+    "repository": "AICP/prorpietary_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "kitkat"
   }
